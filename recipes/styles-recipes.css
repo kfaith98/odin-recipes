@@ -1,0 +1,40 @@
+body {
+    background: #F7F5FB;
+    font-family: sans-serif;
+}
+
+.title-container {
+    padding: 15px;
+    text-align: center;
+    background: #084887;
+    color: white;
+    margin: 5px;
+}
+
+h1 {
+    border: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    background-color: #084887;
+}
+
+.img-container {
+    background: #F9AB55;
+    margin: 5px;
+}  
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.recipe-container {
+    padding: 5px;
+    background: #F58A07;
+    color: whitesmoke;
+    font-family: 'Tahoma', sans-serif;
+    margin: 5px;
+}
+

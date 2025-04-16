@@ -1,0 +1,41 @@
+body {
+    background: #F7F5FB;
+    font-family: sans-serif;
+}
+
+.title-container {
+    padding: 15px;
+    background: #084887;
+    color: white;
+    margin: 5px;
+}
+
+h1 {
+    border: 5px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.recipe-container {
+    padding: 15px;
+    text-align: center;
+    background: #F58A07;
+    color: whitesmoke;
+    font-family: 'Verdana', sans-serif;
+    margin: 5px;
+}
+
+ul.recipe-UL {
+    display: inline-block;
+    text-align: left;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.credits-container {
+    padding: 5px;
+    background: #F9AB55;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Tahoma', sans-serif;
+    margin: 5px;
+}
